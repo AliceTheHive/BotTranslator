@@ -1,8 +1,8 @@
 # BotTranslator - Microsoft Translator with Microsoft Bot Framework
 
-Bots are the new apps, and bots're becoming trend day by day in our daily life. Developers consider this platform for consumer and commercial usage to reach their users via social media or through a Line Of Business (LOB) applications using embedded bots.
+Bots are the new apps. Developers can consider this platform for consumers and commerce, reaching users via social media or through a Line Of Business (LOB) applications using embedded bots.
 
-Native language support is an essential key point for such experiences provides Natural User Interface (NUI) for last users like chatbots. In this sample we'll learn how to use Microsoft Translator in a Bot Framework Application.
+Multilingual support is essential for such experiences, providing a natural user interface (NUI) for last users like chatbots. In this sample we'll learn how to use Microsoft Translator in a Bot Framework Application.
 
 ![](./ScreenShots/BotEmulator.png)
 
